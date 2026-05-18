@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "cocktail_sort.h"
+#include <cocktail_sort.h>
 
 int main(void) {
     int values[] = {42, 17, 8, 99, 23, 5, 71, 60, 1, 33};

@@ -1,7 +1,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-#include "cocktail_sort.h"
+#include <cocktail_sort.h>
 
 void print_array(int arr[], int size) {
     for (int i = 0; i < size; i++) {
