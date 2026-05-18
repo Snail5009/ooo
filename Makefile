@@ -1,5 +1,5 @@
 
-CFLAGS = -Wall -pedantic -std=c99 -Iinc/
+CFLAGS = -Wall -pedantic -std=c89 -Iinc/
 OBJS = bin/main.o bin/cocktail_sort.o
 
 bin/main: ${OBJS}
